@@ -7,7 +7,9 @@ Pessoalmente já tentei algumas sessões de dubplate juggling, e depois de algum
 + Loop;
 + Entrada do usuário;
 + Validação na entrada do usuário e determinação do tipo de eco;
-+ Operações com strings.
++ Operações com strings;
++ Funções;
++ Condicionais.
 
 ## Links
 [King Tubby - Each One Dub (1976)](https://www.youtube.com/watch?v=SbrAeJ2SQbU)
